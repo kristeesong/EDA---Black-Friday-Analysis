@@ -1,4 +1,3 @@
-# Stats-131
-Python and other technologies
 
-Hi, Kristee here.
+This is our Stats 131 Project on a Kaggle dataset.
+
